@@ -6,8 +6,8 @@
 ## Commands & Usage:⬇️
 ````
 termux-setup-storage
-pkg update
-pkg upgrade
+pkg update -y
+pkg upgrade -y
 pkg install python -y
 pkg install git -y
 git clone https://github.com/DARK-NI/Termux-Style
