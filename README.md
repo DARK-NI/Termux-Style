@@ -1,7 +1,7 @@
 
 ## Assalamaualaikum
 ## Termux-Style
-* This Tool Is For Styling Termux.By This Tool You Will Get a Login Method.Also You Can Remove Any Types Of Banner By This Tool
+* `This Tool Is For Styling Termux.By This Tool You Will Get a Login Method.Also You Can Remove Any Types Of Banner By This Tool`
 
 ## Commands & Usage:⬇️
 ````
@@ -14,8 +14,8 @@ git clone https://github.com/DARK-NI/Termux-Style
 cd Termux-Style
 python banner.dark_ni
 ````
-* `Now Give Your Name & Password`
-* `Then Exit Your Termux And Open Again`
+* Now Give Your Name & Password
+* Then Exit Your Termux And Open Again
 
 ## Features:⬇️
 
